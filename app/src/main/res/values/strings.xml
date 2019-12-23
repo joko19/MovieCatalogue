@@ -1,0 +1,233 @@
+<resources>
+    <string name="app_name">Movie Catalogue</string>
+    <string name="judul_film">judul film</string>
+    <string name="deskripsi">ini adalah deskripsi dari sebuah film layar lebar. sekian terima kasih</string>
+    <string name="tag3">ini tag 3</string>
+    <string name="name">judul film</string>
+    <string name="content">sinopsis  lengkap film</string>
+    <string name="kategory">kategori film</string>
+    <string name="sutradara">sutradara film</string>
+    <string name="produser">rumah produksi</string>
+    <string name="pemain">pemain film</string>
+    <string name="pemeran1">pemeran film pertama</string>
+    <string name="pemeran2">pemeran film kedua</string>
+    <string name="pemeran3">pemeran film ketiga</string>
+    <string name="tahun">tahun produksi</string>
+    <string-array name="data_movie">
+        <item>Ada Apa Dengan Cinta 2</item>
+        <item>Ayat Ayat Cinta</item>
+        <item>Catatan Akhir Kuliah</item>
+        <item>Habibie Ainun</item>
+        <item>Laskar Pelangi</item>
+        <item>Mimpi Sejuta Dollar</item>
+        <item>Negeri 5 Menara</item>
+        <item>Sang Pemimpi</item>
+        <item>Tendangan dari Langit</item>
+        <item>Tenggelamnya Kapal Van Der Wicjk</item>
+        <item>Yo Wis Ben</item>
+    </string-array>
+    <string-array name="data_deskripsi">
+        <item>14 tahun setelah percintaan mereka di sekolah menengah, Rangga dan Cinta bersatu kembali di Yogyakarta untuk menutup kisah mereka setelah Rangga meninggalkan Cinta tanpa penjelasan.</item>
+        <item>Ini adalah kisah cinta. Tapi bukan cuma sekadar kisah cinta yang biasa. Ini tentang bagaimana menghadapi turun-naiknya persoalan hidup dengan cara Islam.</item>
+        <item>Sam Maulana , Sobari , Ajeb  berjanji akan wisuda bersama. Ternyata hanya Sam yang belum menyelesaikan tugas akhir (skripsi). Kesedihan Sam semakin komplet, saat mengetahui kalau Kodok, dikaguminya ternyata sudah memiliki pacar bernama Iwan . </item>
+        <item>Punya mimpi tak akan pernah mudah. Habibie dan Ainun tahu itu. Cinta mereka terbangun dalam perjalanan mewujudkan mimpi. </item>
+        <item>Mimpi adalah kunci untuk kita menaklukkan dunia Berlarilah tanpa lelah, sampai engkau meraihnya Laskar pelangi tak kan terikat waktu Bebaskan mimpimu di angkasa warnai bintang di jiwa</item>
+        <item>Merry Riana , gadis lulusan SMA, mengungsi ke Singapura dengan terpaksa karena kondisi negaranya yang sedang tidak stabil.</item>
+        <item>Di bawah menara masjid yang menjulang, mereka berenam kerap menunggu maghrib sambil menatap awan lembayung yang berarak pulang ke ufuk. </item>
+        <item>Kisah perjuangan hidup Ikal dan sepupunya, Arai, dan sahabatnya, Jimbron - sebuah potret para remaja yang tengah mencari identitas diri dan seksualitasnya, dengan latar belakang Belitong tempo dulu.</item>
+        <item>Terlahir dari keluarga sederhana yang tinggal di lereng Gunung Bromo, Wahyu merajut impiannya untuk menjadi pemain sepak bola kenamaan tanah air demi membahagiakan ayah dan ibunya.</item>
+        <item>Dari Makasar, Zainuddin berlayar menuju tanah kelahiran ayahnya di Padang Panjang. Hatinya terpikat pada seorang gadis jelita bangsawan, Hayati. Namun apa daya, adat istiadat menghalangi cinta mereka.</item>
+        <item>Bayu menyukai Susan sejak lama, namun merasa minder dengan keadaan dirinya yang pas-pasan. Bayu bertekad mengubah dirinya menjadi lebih populer dari Roy, pacar Susan yang gitaris band. Ia membentuk band bersama teman-temannya, yang dinamai Yowis Ben.</item>
+    </string-array>
+    <array name="data_poster">
+        <item>@drawable/ada_apa_dengan_cinta_2</item>
+        <item>@drawable/ayat_ayat_cinta</item>
+        <item>@drawable/catatan_akhir_kuliah</item>
+        <item>@drawable/habibie_ainun</item>
+        <item>@drawable/laskar_pelangi</item>
+        <item>@drawable/mimpi_sejuta_dollar</item>
+        <item>@drawable/negeri_5_menara</item>
+        <item>@drawable/sang_pemimpi</item>
+        <item>@drawable/tendangan_dari_langit</item>
+        <item>@drawable/tenggelamnya_kapal_van_der_wicjk</item>
+        <item>@drawable/yo_wis_ben</item>
+    </array>
+    <array name="data_pemeran1">
+        <item>@drawable/aadc_pemeran1</item>
+        <item>@drawable/aac_pemain1</item>
+        <item>@drawable/cak_1</item>
+        <item>@drawable/ha_1</item>
+        <item>@drawable/lp_1</item>
+        <item>@drawable/msd_1</item>
+        <item>@drawable/n5m_1</item>
+        <item>@drawable/lpm_1</item>
+        <item>@drawable/tdl_1</item>
+        <item>@drawable/tkv_1</item>
+        <item>@drawable/ywb_1</item>
+    </array>
+    <array name="data_pemeran2">
+        <item>@drawable/aadc_pemeran2</item>
+        <item>@drawable/aac_pemain2</item>
+        <item>@drawable/cak_2</item>
+        <item>@drawable/hb_2</item>
+        <item>@drawable/lp_2</item>
+        <item>@drawable/msd_2</item>
+        <item>@drawable/n5m_2</item>
+        <item>@drawable/lp_2</item>
+        <item>@drawable/tdl_2</item>
+        <item>@drawable/tkv_2</item>
+        <item>@drawable/ywb_2</item>
+    </array>
+    <array name="data_pemeran3">
+        <item>@drawable/aadc_pemeran3</item>
+        <item>@drawable/aac_pemain3</item>
+        <item>@drawable/cak_3</item>
+        <item>@drawable/ha_3</item>
+        <item>@drawable/lp_3</item>
+        <item>@drawable/msd_3</item>
+        <item>@drawable/n5m_3</item>
+        <item>@drawable/lpm_3</item>
+        <item>@drawable/msd_1</item>
+        <item>@drawable/ha_1</item>
+        <item>@drawable/ywb_3</item>
+    </array>
+    <string-array name="dataSutradara">
+        <item>Riri Riza</item>
+        <item>Hanung Bramantyo</item>
+        <item>Jay Sukmo</item>
+        <item>Faozan Rizal</item>
+        <item>Riri Riza</item>
+        <item>Hestu Saputra</item>
+        <item>Affandi Abdul Rachman</item>
+        <item>Riri Riza</item>
+        <item>Hanung Bramantyo</item>
+        <item>Sunil Soraya</item>
+        <item>Fajar Nugros, Bayu Skak</item>
+    </string-array>
+    <string-array name="dataProduksi">
+        <item>Miles Production dan Legacy Pictures</item>
+        <item>MD Pictures</item>
+        <item>DariHati Films</item>
+        <item>MD Pictures</item>
+        <item>Miles Films, Mizan Production, SinemaArt</item>
+        <item>MD Pictures</item>
+        <item>Million Pictures</item>
+        <item>Miles Films, Mizan Production</item>
+        <item>SinemaArt Pictures</item>
+        <item>Soraya Intercine Films</item>
+        <item>Star Vision</item>
+    </string-array>
+    <string-array name="dataTahun">
+        <item>2016</item>
+        <item>2008</item>
+        <item>2015</item>
+        <item>2012</item>
+        <item>2008</item>
+        <item>2014</item>
+        <item>2012</item>
+        <item>2009</item>
+        <item>2011</item>
+        <item>2013</item>
+        <item>2018</item>
+    </string-array>
+    <string-array name="dataPemain1">
+        <item>dian sastrowardoyp</item>
+        <item>Fedi Nuril</item>
+        <item>Muhadkly Acho</item>
+        <item>Reza Rahardan</item>
+        <item>Zulfanny</item>
+        <item>Chelsea Islan</item>
+        <item>Ikang Fauzi</item>
+        <item>Rendy Ahmad</item>
+        <item>Irfan Bachdim</item>
+        <item>Herjunot Ali</item>
+        <item>Bayu Skak</item>
+    </string-array>
+    <string-array name="dataPemain2">
+        <item>Nicholas Saputra</item>
+        <item>Rianti Cartwright</item>
+        <item>Abdur Arsyad</item>
+        <item>Bunga Citra Lestari</item>
+        <item>Ferdian</item>
+        <item>Dion Wiyoko</item>
+        <item>Lulu Tobing</item>
+        <item>Lukman Sardi</item>
+        <item>Kim Jefri Kurniawan</item>
+        <item>Pevita Pearce</item>
+        <item>Joshua Suherman</item>
+    </string-array>
+    <string-array name="dataPemain3">
+        <item>Titi Kamal</item>
+        <item>Carissa Putri</item>
+        <item>Dina Anjani</item>
+        <item>Tio Pakusadewo</item>
+        <item>lukman Sardi</item>
+        <item>Kimberly Ryder</item>
+        <item>David Chalik</item>
+        <item>Mathias Muchus</item>
+        <item>Maudy Ayunda</item>
+        <item>Reza Rahardian</item>
+        <item>Cut Meyriska</item>
+    </string-array>
+    <string-array name="dataKonten">
+        <item>Cinta (Dian Sastrowardoyo) yang sekarang dewasa telah menjadi pemilik sebuah Kafe Seni Pop Mini di Jakarta. Dia dan geng SMA menghibur Karmen (Adinia Wirasti), yang baru pulih dari kecanduan narkoba. Milly (Sissy Priscillia) menikah dengan sebelumnya pecandu pasangan SMA geng Mamet (Dennis Adhiswara) dan saat ini tengah mengandung anak pertama mereka, sementara Maura (Titi Kamal) menikah dengan Chris (Christian Sugiono) dengan 4 anak-anak. Cinta mengumumkan bahwa wanita akan pergi berlibur ke Yogyakarta dan bahwa dia bertunangan dengan pacarnya Trian (Ario Bayu). Sementara itu, di New York City, Rangga (Nicholas Saputra) adalah co-pemilik sebuah kedai kopi saat nya langkah-adik, Sukma (Dimi Cindyastira), membayar kunjungan untuk meminta dia untuk mengunjungi ibunya lama pergi di Jogjakarta, tetapi dia menolak. Dia akhirnya memiliki perubahan hati dan memutuskan untuk pergi ke sana setelah rekan-pemilik dan teman Roberto (Chase Kuertz) meyakinkan dia bahwa dia harus pulang ke Indonesia untuk menyelesaikan sesuatu yang perlu untuk diselesaikan.</item>
+        <item>Sebuah kisah cinta dengan latar belakang agama, terutama Islam, dalam kehidupan. Fahri bin Abdillah adalah pelajar Indonesia yang berusaha menggapai gelar masternya di Al-Azhar. Ia harus berkutat dengan berbagai macam impiannya dan kesederhanaan hidup di Mesir. Ia bertahan dengan menjadi penerjemah buku-buku agama. Semua impian dijalani Fahri dengan penuh antusias kecuali satu: menikah. Fahri adalah laki-laki taat yang begitu lurus. Dia tidak mengenal pacaran sebelum menikah. Dia kurang artikulatif saat berhadapan dengan perempuan. Hanya ada sedikit perempuan yang dekat dengannya selama ini. Neneknya, Ibunya dan saudara perempuannya. Pindah ke Mesir membuat hal itu berubah. Tersebutlah Maria Girgis. Tetangga satu flat yang beragama Kristen Koptik tetapi mengagumi Al-Quran, dan mengagumi Fahri. Kekaguman yang berubah menjadi cinta. Sayang, cinta Maria hanya tercurah dalam diari saja. Lalu ada Nurul. Anak seorang kyai terkenal yang juga mengeruk ilmu di Al-Azhar. Sebenarnya Fahri menaruh hati pada gadis manis ini. Sayang rasa mindernya yang hanya anak keturunan petani membuatnya tidak pernah menunjukkan rasa apa pun pada Nurul. Sementara Nurul pun menjadi ragu dan selalu menebak-nebak.</item>
+        <item>Sam Maulana (Muhadkly Acho), Sobari (Ajun Perwira), Ajeb (Abdur Arsyad) berjanji akan wisuda bersama. Ternyata hanya Sam yang belum menyelesaikan tugas akhir (skripsi). Kesedihan Sam semakin komplet, saat mengetahui kalau Kodok (Dina Anjani), dikaguminya ternyata sudah memiliki pacar bernama Iwan (Andovi da Lopez). Pengalaman cinta ditolak seperti terulang kembali seperti saat Sam menembak Wibi (Elyzia Mulachela), yang memilih setia dengan kekasihnya di kampung halaman. Sam berada di titik terbawah hidupnya. Ia harus berjuang menyelesaikan semuanya.[2]</item>
+        <item>Rudy Habibie seorang genius ahli pesawat terbang yang punya mimpi besar: berbakti kepada bangsa Indonesia dengan membuat pesawat terbang untuk menyatukan Indonesia. Sedangkan Ainun adalah seorang dokter muda cerdas yang dengan jalur karier terbuka lebar untuknya.
+
+Pada tahun 1962, dua kawan SMP ini bertemu lagi di Bandung. Habibie jatuh cinta seketika pada Ainun yang baginya semanis gula. Tapi Ainun, dia tak hanya jatuh cinta, dia iman pada visi dan mimpi Habibie. Mereka menikah dan terbang ke Jerman.
+
+Punya mimpi tak akan pernah mudah. Habibie dan Ainun tahu itu. Cinta mereka terbangun dalam perjalanan mewujudkan mimpi. Dinginnya salju Jerman, pengorbanan, rasa sakit, kesendirian serta godaan harta dan kuasa saat mereka kembali ke Indonesia mengiringi perjalanan dua hidup menjadi satu.
+
+Bagi Habibie, Ainun adalah segalanya. Ainun adalah mata untuk melihat hidupnya. Bagi Ainun, Habibie adalah segalanya, pengisi kasih dalam hidupnya. Namun setiap kisah mempunyai akhir, setiap mimpi mempunyai batas.</item>
+        <item>Hari pertama pembukaan kelas baru di sekolah SD Muhammadyah menjadi sangat menegangkan bagi dua guru luar biasa, Muslimah (Cut Mini) dan Pak Harfan (Ikranagara), serta 9 orang murid yang menunggu di sekolah yang terletak di desa Gantong, Belitong. Sebab kalau tidak mencapai 10 murid yang mendaftar, sekolah akan ditutup.
+
+
+
+Hari itu, Harun, seorang murid istimewa menyelamatkan mereka. Ke 10 murid yang kemudian diberi nama Laskar Pelangi oleh Bu Muslimah, menjalin kisah yang tak terlupakan.
+
+5 tahun bersama, Bu Mus, Pak Harfan dan ke 10 murid dengan keunikan dan keistimewaannya masing masing, berjuang untuk terus bisa sekolah. Di antara berbagai tantangan berat dan tekanan untuk menyerah, Ikal (Zulfani), Lintang (Ferdian) dan Mahar (Veris Yamarno) dengan bakat dan kecerdasannya muncul sebagai pendorong semangat sekolah mereka.
+
+Di tengah upaya untuk tetap mempertahankan sekolah, mereka kehilangan sosok yang mereka cintai. Sanggupkah mereka bertahan menghadapi cobaan demi cobaan?
+
+Film ini dipenuhi kisah tentang tantangan kalangan pinggiran, dan kisah penuh haru tentang perjuangan hidup menggapai mimpi, serta keindahan persahabatan yang menyelamatkan hidup manusia, dengan latar belakang sebuah pulau indah yang pernah menjadi salah satu pulau terkaya di Indonesia.</item>
+        <item>Merry Riana (Chelsea Islan), gadis lulusan SMA, mengungsi ke Singapura dengan terpaksa karena kondisi negaranya yang sedang tidak stabil. Kedua orang tuanya tidak mengizinkannya untuk tetap tinggal di Indonesia. Dalam perjalanan menuju bandara, mereka dihadang kawanan penjarah sehingga mereka terpaksa melepas harta benda milik mereka. Setelah sampai di bandara, kedua orang tua Merry (Ferry Salim dan Cynthia Lamusu) menjual apa yang tersisa untuk membeli sebuah tiket untuk Merry.
+
+Di Singapura, Merry harus mencari tempat tinggal dan bertahan hidup sendirian. Dengan bekal uang yang akan habis hanya untuk lima kali makan, cita-citanya untuk terus kuliah dan menjadi sukses terasa mustahil. Namun, kemudian dirinya bertemu Irene (Kimberly Ryder) di media sosial. Dengan bantuan Irene, Merry mencari celah hukum untuk diperbolehkan tinggal di asrama. Setelah itu, Merry berhasil lolos ujian seleksi di salah satu perguruan tinggi. Namun, untuk dapat meneruskan prosesnya, ia diwajibkan membayar $40,000, yang tidak ia miliki saat itu.
+
+Merry kemudian bertemu Alva (Dion Wiyoko), seorang senior yang, dengan memberikan beberapa syarat, mau menjadi penjamin bagi Merry untuk mengajukan pinjaman pelajar. Karena ia ingin sukses dengan cepat dan ingin membanggakan orang tuanya, ia mencari cara untuk menggandakan uangnya, yaitu dengan bekerja di berbagai bidang, mulai dari menyebar brosur, bisnis daring, hingga bermain saham berisiko tinggi. Melihat kegigihan Merry dalam bekerja dan memenuhi syaratnya, Alva menyatakan perasaan pada Merry. Sementara itu, Merry menyadari bahwa Irene juga jatuh cinta dengan Alva.</item>
+        <item>Alif (Gazza Zubizareta) adalah seorang anak sederhana yang baru saja lulus SMP di Maninjau. Bersama sahabatnya Randai (Sakurta Ginting), Alif ingin melanjutkan SMA di kota Bandung dan kemudian masuk ke Kampus idamannya, ITB. Namun mimpi tinggal mimpi ketika Amaknya (Lulu Tobing) menginginkan Alif untuk masuk ke Pondok Madani, sebuah pesantren di sudut Ponorogo, jawa Timur. Walau pada awalnya Alif tidak mau, akhirnya Alif memenuhi pinta orang tuanya, walau dengan setengah hati.
+
+Saat Alif tiba di Pondok Madani bersama Ayah (David Chalik), hatinya makin remuk. Tempat itu benar-benar makin ‘kampungan’ dan mirip penjara di matanya. Ditambah lagi dengan keharusan mundur setahun untuk kelas adaptasi. Alif menguatkan hati untuk mencoba menjalankan setidaknya tahun pertama di Pondok Madani ini.
+
+Awalnya, Alif lebih sering menyendiri. Namun, seiring berjalannya waktu, Alif mulai bersahabat dengan teman-teman satu kamarnya, yaitu Baso (Billy Sandy) dari Gowa, Atang (Rizky Ramdani) dari Bandung, Said (Ernest Samudera) dari Surabaya, Raja (Jiofani Lubis) dari Medan, dan Dulmajid (Aris Putra) dari Madura. Mereka berenam selalu berkumpul di menara masjid dan menamakan diri mereka Sahibul Menara alias para pemilik menara.
+
+Suasana kian menghangat di kelas pertama, saat Alif disentak oleh teriakan penuh semangat dari Ustad Salman (Donny Alamsyah): Man Jadda Wajada! Artinya, Siapa yang bersungguh-sungguh pasti akan berhasil. “Mantra” ini lah yang menambah semangat dan kegigihan keenam anak itu.</item>
+        <item>Sang Pemimpi merupakan kelanjutan dari Laskar Pelangi. Film ini bercerita tentang Ikal (Vikri Setiawan) dan saudara sepupunya, Arai (Rendy Ahmad), serta sahabatnya, Jimbron (Azwar Fitrianto), pada usia remaja, dan mengisahkan tentang anak remaja yang mencari identitas diri dan seksualitas pada usia 17 tahun.
+
+Adalah seorang guru bernama Balia (Nugie) yang menjadi sumber inspirasi bagi Ikal, Arai dan Jimbron. Kelas Balia membawa mereka pada keajaiban ilmu pengetahuan dan luasnya kehidupan, tempat yang memberi mereka nafas untuk keluar dari tekanan hidup. Balia membarakan semangat mereka untuk menjelajahi Eropa dan bagian dunia lain untuk mengarungi kehidupan. Namun, pada saat yang sama, mereka harus menghadapi sikap keras Pak Mustar (Landung Simatupang), sang kepala sekolah. Kontras dengan sikap Balia, Pak Mustar adalah seorang guru yang menerapkan cara didik dengan pola hukuman bagi yang lalai.</item>
+        <item>Wahyu (16 tahun) memiliki kemampuan luar biasa dalam bermain sepak bola. Ia tinggal di Desa Langitan di lereng gunung Bromo bersama ayahnya seorang penjual minuman hangat di kawasan wisata gunung api itu, dan ibunya.
+
+Demi membahagiakan orang tuanya, Wahyu memanfaatkan keahliannya dalam bermain bola dengan menjadi pemain sewaan dan bermain bola dari satu tim desa ke tim desa lain dengan bantuan Hasan, pamannya. Sayangnya Pak Darto, ayah Wahyu sangat tidak menyukai apa yang dilakukan anaknya.
+
+Suatu hari saat Wahyu bermain bola dengan rekan-rekannya, keahlian istimewanya tak sengaja dilihat oleh Coach Timo yang tengah hiking bersama Matias di lereng Bromo. Pelatih Timo kemudian menawari Wahyu untuk datang ke Malang dan menjalani tes bersama Persema Malang.
+
+Sayangnya, berbagai ujian dalam meraih kesempatan emas bermain bersama Irfan Bachdim dan Kim Kurniawan di Persema mendapat banyak halangan. Selain harus memilih antara cintanya kepada Indah dan impiannya untuk bermain bola di jenjang yang lebih tinggi, Wahyu juga harus mampu meyakinkan Pak Darto. Belum lagi ternyata Hasan memiliki kepentingannya sendiri terhadap Wahyu.
+
+Selain berbagai rintangan yang harus ia hadapi, layaknya seorang pemain bola sebelum mencetak gol, Wahyu juga harus menghadapi tantangan terakhir dari dirinya sendiri. Sebuah penyakit yang biasa menyerang anak-anak usia enam belas tahun seperti Wahyu</item>
+        <item>Berlatar tahun 1930-an, dari tanah kelahirannya Makassar, Zainuddin (Herjunot Ali) berlayar menuju kampung halaman ayahnya di Batipuh, Padang Panjang. Di sana, ia bertemu dengan Hayati (Pevita Pearce), seorang gadis cantik jelita yang menjadi bunga di persukuannya. Kedua muda-mudi itu jatuh cinta. Namun, adat dan istiadat yang kuat meruntuhkan cinta mereka berdua. Zainuddin hanya seorang melarat yang tak bersuku; karena ibunya berdarah Bugis dan ayah berdarah Minang, statusnya dalam masyarakat Minang yang bernasabkan garis keturunan ibu tidak diakui. Oleh sebab itu, ia dianggap tidak memiliki pertalian darah lagi dengan keluarganya di Minangkabau. Sedangkan Hayati adalah perempuan Minang santun keturunan bangsawan.
+
+Pada akhirnya, lamaran Zainuddin ditolak keluarga Hayati. Hayati dipaksa menikah dengan Aziz (Reza Rahadian), laki-laki kaya terpandang yang lebih disukai keluarga Hayati daripada Zainuddin. Kecewa, Zainuddin pun memutuskan untuk berjuang, pergi dari ranah Minang dan merantau ke tanah Jawa demi bangkit melawan keterpurukan cintanya. Zainudin bekerja keras membuka lembaran baru hidupnya. Sampai akhirnya ia menjadi penulis terkenal dengan karya-karya masyhur dan diterima masyarakat seluruh Nusantara.
+
+Tetapi sebuah peristiwa tak diduga kembali menghampiri Zainuddin. Di tengah gelimang harta dan kemasyhurannya, dalam sebuah pertunjukan opera, Zainuddin kembali bertemu Hayati, kali ini bersama Aziz, suaminya. Pada akhirnya, kisah cinta Zainuddin dan Hayati menemui ujian terberatnya; Hayati pulang ke kampung halamannya dengan menaiki kapal Van der Wijck. Di tengah-tengah perjalanan, kapal yang dinaiki Hayati tenggelam. Sebelum kapal tenggelam, Zainuddin mengetahui bahwa Hayati sebetulnya masih mencintainya.</item>
+        <item>Bayu (Bayu Skak) menyukai Susan (Cut Meyriska) sejak lama. Namun karena dia merasa minder dengan keadaan dirinya yang pas-pasan, Bayu memutuskan memendam perasaan itu.
+
+Namun hari-hari Bayu berubah sejak Susan mengirim voice chat ke ponsel Bayu, yang membuatnya kegeeran luar biasa mengira Susan memberi isyarat agar didekati. Ternyata Susan hanya memanfaatkan Bayu untuk membantunya mensuplai pecel untuk konsumsi teman-teman OSIS. Bayu bertekad mengubah dirinya menjadi lebih populer dari Roy (Indra Widjaya), pacar Susan, yang dikenal piawai sebagai gitaris band sekolah mereka,
+
+Bayu berinisiatif membentuk band bersama Doni (Joshua Suherman) - sahabat dekatnya, Yayan (Tutus Thomson) - seorang tukang tabuh beduk sebagai drummer dan Nando (Brandon Salim) - siswa ganteng yang jago keyboard. Mereka sepakat menamakan band mereka YOWIS BEN.
+
+Namun rupanya langkah Bayu dan teman-temannya tidak mudah. Dalam masa-masa YOWIS BEN tumbuh di dunia musik kota Malang, perlahan tapi pasti celah perpecahan antar personil YOWIS BEN mulai tampak.
+
+Berhasilkah Bayu mempertahankan band-nya dan mendapatkan Susan?</item>
+    </string-array>
+</resources>
